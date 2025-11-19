@@ -1,0 +1,39 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 9
+   Case Problem 1
+
+   Kelsey's Diner Style Sheet
+
+   Author:  Simge Sinav  
+   Date:      11/18/2025 
+
+   Filename:         kdstyles.css
+   Supporting Files: 
+
+*/
+
+img {
+   border-width: 0px;
+}
+
+body {
+    background-image: url('tan.jpg');
+}
+
+.center {
+    text-align: center;
+}
+
+.green {
+    color: green;
+}
+
+.item {
+    font-family: sans-serif;
+    color: green;
+    font-weight: bold;
+}
+
+
+
